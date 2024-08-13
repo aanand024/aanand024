@@ -1,4 +1,4 @@
-## Asmita 
+## 𝙰𝚜𝚖𝚒𝚝𝚊
 
 <!--
 **aanand024/aanand024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 currently studying computer science at University College London (UCL)
+🎓 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝙻𝚘𝚗𝚍𝚘𝚗 (𝚄𝙲𝙻) 
+
